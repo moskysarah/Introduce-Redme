@@ -12,7 +12,7 @@ I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea
 
 ### 🔗 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarah-monic-ngoya-80b0322b1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://[www.linkedin.com/in/sarah-monic-ngoya-80b0322b1])
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/moskysarah)
 
 
