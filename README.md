@@ -5,13 +5,13 @@
 ## 👨‍💻 Student & Fullstack Developer
 I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea.academy).
 
-  <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50" style="margin:5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Angular" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="50" style="margin:5px;"/>
+  <p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="25" style="margin:5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Angular" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="25" style="margin:5px;"/>
 </p>
 
 ### 🛠 Technologies & Tools
