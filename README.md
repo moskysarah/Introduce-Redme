@@ -13,6 +13,8 @@ I'm currently a student in Fullstack Development at [Kadea Academy](https://kade
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Angular" width="40" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="40" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="40" style="margin:5px;"/>
+  <img src="https://raw.githubusercontent.com/adonisjs/art/master/adonisjs.svg" alt="AdonisJS" width="40" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="40" style="margin:5px;"/>
 </p>
 
@@ -47,25 +49,6 @@ I'm currently a student in Fullstack Development at [Kadea Academy](https://kade
 ### 🔗 Social Links
 <p align="left">
   <a href="https://www.linkedin.com/in/sarah-monic-80b0322b1/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/moskysarah">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-sq
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/moskysarah?label=Stars&style=social" alt="Stars"/>
-</p>
-
----
-
-### 🔥 Pinned Projects
-- [Ndaku-proche site immo](https://frontend-react-ndaku-proche-immo.onrender.com/)  
-  A real estate site for house rentals built with **React JS**, **TailwindCSS**, and **TypeScript**.
-
----
-
-Thank you for visiting my profile! 😊
 
