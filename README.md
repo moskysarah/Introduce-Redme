@@ -6,13 +6,15 @@
 I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea.academy).
 
 ### 🛠 Technologies & Tools
-- **Languages**: JavaScript, HTML, CSS, Wordpress,TailwindCSS etc.
-- **Frameworks**: React, AdonisJS, Node.js, etc.
+- **Languages**: JavaScript, HTML, Python.
+- **Langages-Styles**: CSS , TailwindCSS
+- **Frameworks**: React, Angular
+- **Backend**: Adonis , Node Js 
 - **Tools**: Git, etc.
 
 ### 🔗 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://[www.linkedin.com/in/sarah-monic-ngoya-80b0322b1])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://https://www.linkedin.com/in/sarah-monic-80b0322b1/])
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/moskysarah)
 
 
@@ -22,8 +24,8 @@ I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea
 ### 🔥 Pinned Projects
 Here are some of my featured repositories:
 
-- [Netflix-update](https://github.com/moskysarah/Netflix-update)  
-  A simple neflix page movie update with a new fonctions built with HTML and CSS.
+- [Ndaku-proche site immo](https://frontend-react-ndaku-proche-immo.onrender.com/)  
+  A immo site for choice houses locations built with React JS , TailwindCSS and Typescript.
 
 
 
