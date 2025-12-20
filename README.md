@@ -68,7 +68,9 @@ I'm currently a student in Fullstack Development at [Kadea Academy](https://kade
 
 ---
 <h2>🎉🎉🎉Certificat Symplon Bac+2 2024</h2>
-![Souvenir collation](https://github.com/user-attachments/assets/be0b8826-956e-44e6-9f5d-f157fd88ece3)
+Picture vibes (https://github.com/user-attachments/assets/be0b8826-956e-44e6-9f5d-f157fd88ece3)
+
+
 
 Thank you for visiting my profile! 😊
 
