@@ -6,26 +6,24 @@
 I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea.academy).
 <p align="center">
   <!-- Langages et Frameworks -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50" style="margin:5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Angular" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="50" style="margin:5px;"/>
-  <img src="https://raw.githubusercontent.com/adonisjs/art/master/adonisjs.svg" alt="AdonisJS" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="50" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="25" style="margin:5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Angular" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="25" style="margin:5px;"/>
   
   <!-- Outils & logiciels -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="VSCode" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968701.png" alt="Figma" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968706.png" alt="Canva" width="50" style="margin:5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" style="margin:5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="VSCode" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968701.png" alt="Figma" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968706.png" alt="Canva" width="25" style="margin:5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="25" style="margin:5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="25" style="margin:5px;"/>
   
   <!-- Fun / Autres -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4470/4470442.png" alt="Windsurf" width="50" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Cursor" width="50" style="margin:5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Async_Herald_logo.svg" alt="Async Herald" width="50" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4470/4470442.png" alt="Windsurf" width="25" style="margin:5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Cursor" width="25" style="margin:5px;"/>
 </p>
 
 - 🎌Manga & Anime vibes
