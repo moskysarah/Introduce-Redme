@@ -14,14 +14,14 @@ I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="25" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="25" style="margin:5px;"/>
   
-  <h1>  Outils & Logiciels </h1>
+  <h2>  Outils & Logiciels </h2>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="VSCode" width="25" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968701.png" alt="Figma" width="25" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968706.png" alt="Canva" width="25" style="margin:5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="25" style="margin:5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="25" style="margin:5px;"/>
   
-  <!-- Fun / Autres -->
+   <h2>Fun/Others </h2>
   <img src="https://cdn-icons-png.flaticon.com/512/4470/4470442.png" alt="Windsurf" width="25" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Cursor" width="25" style="margin:5px;"/>
 </p>
