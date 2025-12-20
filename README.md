@@ -13,7 +13,6 @@ I'm currently a student in Fullstack Development at [Kadea Academy](https://kade
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Angular" width="25" height="25" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="25" height="25" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="25" height="25" style="margin:5px;"/>
-  <img src="https://raw.githubusercontent.com/adonisjs/art/master/adonisjs.svg" alt="AdonisJS" width="25" height="25" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="25" height="25" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="25" height="25" style="margin:5px;"/>
 </p>
