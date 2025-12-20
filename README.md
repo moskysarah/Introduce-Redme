@@ -5,12 +5,22 @@
 ## 👨‍💻 Student & Fullstack Developer
 I'm currently a student in  fullstack developer at [Kadea Academy](https://kadea.academy).
 
+  [HTML](https://cdn-icons-png.flaticon.com/512/732/732212.png) 
+  ![CSS](https://cdn-icons-png.flaticon.com/512/732/732190.png) 
+  ![Tailwind](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg) 
+  ![React](https://cdn-icons-png.flaticon.com/512/919/919851.png) 
+  ![Angular](https://cdn-icons-png.flaticon.com/512/919/919836.png) 
+  ![Python](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)
+
 ### 🛠 Technologies & Tools
 - **Languages**: JavaScript, HTML, Python.
 - **Langages-Styles**: CSS , TailwindCSS
-- **Frameworks**: React, Angular
+- **Frameworks**: React , Angular
 - **Backend**: Adonis , Node Js 
-- **Tools**: Git, etc.
+- **Tools**: Git, Figma , Canva , ChatGPT , Vscode , Windsurf , Cursor , Async Herald , Boostrap.
+- 🎌Manga & Anime vibes
+- Otaku**:
+- Coffee**:
 
 ### 🔗 Social Links
 
