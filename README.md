@@ -14,7 +14,6 @@ I'm currently a student in Fullstack Development at [Kadea Academy](https://kade
   <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="40" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="40" style="margin:5px;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="40" style="margin:5px;"/>
-  <img src="https://raw.githubusercontent.com/adonisjs/art/master/adonisjs.svg" alt="AdonisJS" width="40" style="margin:5px;"/>
 </p>
 
 ---
