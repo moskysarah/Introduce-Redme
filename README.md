@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Sarah%20Ngoya&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=I'm+Sarah+Ngoya;Computer+Science+Student;Cybersecurity+Specialist;Frontend+Developer" />
 </p>
 
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Saboo24&label=Profile%20Views&color=3a8296&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Saboo24?label=Followers&style=flat-square&color=3a8296" />
 </p>
@@ -42,7 +42,7 @@
 
 ## 🧠 Skills
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,c&theme=dark" />
 </p>
 
@@ -50,7 +50,7 @@
 
 ## ⚙️ Tools & Environment
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma&theme=dark" />
 </p>
 
@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=0,091519,000000&border_color=3a8296" />
   <img width="48%" src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&background=0,000000,091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB" />
 </p>
@@ -67,7 +67,7 @@
 
 ## 🧩 Most Used Languages
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&theme=radical&bg_color=0,091519,000000&title_color=61DAFB&text_color=C8E1FF" />
 </p>
 
@@ -75,7 +75,7 @@
 
 ## 🏆 Top Contributions
 
-<p align="center">
+<p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=Saboo24&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
@@ -83,7 +83,7 @@
 
 ## ✍️ Random Dev Quote
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
