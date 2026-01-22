@@ -59,7 +59,7 @@
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=0,091519,000000&border_color=3a8296" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=0,091519,000000&border_color=3a8296" />
 </p>
 
 ---
