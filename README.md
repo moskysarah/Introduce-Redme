@@ -34,8 +34,8 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Saboo24&label=Profile%20Views&color=3a8296&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Saboo24?label=Followers&style=flat-square&color=3a8296" />
+  <img src="https://komarev.com/ghpvc/?username=moskysarah&label=Profile%20Views&color=3a8296&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=flat-square&color=3a8296" />
 </p>
 
 ---
