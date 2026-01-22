@@ -74,9 +74,9 @@
 
 ## 🏆 Top Contributions
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=radical)
-
+<p align="left">
+  <img src="https://ghchart.rshah.org/2ecc71/moskysarah" />
+</p>
 
 ---
 
