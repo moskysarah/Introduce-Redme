@@ -43,7 +43,7 @@
 ## 🧠 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python&theme=dark" />
 </p>
 
 ---
