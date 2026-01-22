@@ -1,79 +1,93 @@
-# Hi there, I'm Sarah Ngoya 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hamzaoui%20Amine&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-## 👩🏽‍💻 Student & Fullstack Developer
-I'm currently a student in Fullstack Development at [Kadea Academy](https://kadea.academy).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=I'm+Sarah+Ngoya;Computer+Science+Student;Cybersecurity+Specialist;Frontend+Developer" />
+</p>
 
----
-
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="25" height="25" style="margin:5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Angular" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="React" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" width="25" height="25" style="margin:5px;"/>
+<p align="center">
+  💡 <em>“Crafting logic and elegance in every line of code.”</em>
 </p>
 
 ---
 
-### 🛠️ Tools & Software
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="VSCode" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968701.png" alt="Figma" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968706.png" alt="Canva" width="25" height="25" style="margin:5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="25" height="25" style="margin:5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="25" height="25" style="margin:5px;"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</div>
 
 ---
 
-### 🎉 Fun / Others
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/4470/4470442.png" alt="Windsurf" width="25" height="25" style="margin:5px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Cursor" width="25" height="25" style="margin:5px;"/>
-</p>
+## 📬 Connect with Me
 
----
-
-### 🎌 Interests
-- Manga & Anime vibes  
-- Otaku culture  
-- Coffee lover ☕
-
----
-
-### 🔗 Social Links
-<p align="left">
+<p align="center">
+  <a href="mailto:sarahmosky@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
   <a href="https://www.linkedin.com/in/sarah-monic-80b0322b1/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://github.com/moskysarah">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
+  <a href="https://www.instagram.com/a__m.i.n__e">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+  <a href="https://discord.com/users/805123459566010417">
+    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/moskysarah?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/moskysarah?label=Stars&style=social" alt="Stars"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saboo24&label=Profile%20Views&color=3a8296&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Saboo24?label=Followers&style=flat-square&color=3a8296" />
 </p>
 
 ---
 
-### 🔥 Pinned Projects
-- [**Ndaku-proche site immo**](https://frontend-react-ndaku-proche-immo.onrender.com/)  
-  A real estate site for house rentals built with **React JS**, **TailwindCSS**, and **TypeScript**.
+## 🧠 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,c&theme=dark" />
+</p>
 
 ---
-<h2>🎉🎉🎉Certificat Symplon Bac+2 2024</h2>
-Picture vibes (https://github.com/user-attachments/assets/be0b8826-956e-44e6-9f5d-f157fd88ece3)
 
+## ⚙️ Tools & Environment
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma&theme=dark" />
+</p>
 
-Thank you for visiting my profile! 😊
+---
 
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=0,091519,000000&border_color=3a8296" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&background=0,000000,091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB" />
+</p>
 
+---
+
+## 🧩 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&theme=radical&bg_color=0,091519,000000&title_color=61DAFB&text_color=C8E1FF" />
+</p>
+
+---
+
+## 🏆 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Saboo24&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting%20👋&fontSize=26&fontColor=61DAFB&animation=fadeIn" />
 
