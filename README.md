@@ -59,8 +59,8 @@
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=0,091519,000000&border_color=3a8296" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&background=0,000000,091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=0,091519,000000&border_color=3a8296" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=moskysarah&theme=radical&background=0,000000,091519&ring=3a8296&fire=61DAFB&currStreakLabel=61DAFB" />
 </p>
 
 ---
