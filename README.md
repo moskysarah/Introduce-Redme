@@ -18,7 +18,7 @@
 
 ## 📬 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:sarahmosky@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
