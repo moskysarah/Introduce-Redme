@@ -75,15 +75,7 @@
 ## 🏆 Top Contributions
 
 <p align="left">
-  <img src="https://ghchart.rshah.org/2ecc71/moskysarah&bg_color=0,091519,000000" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://ghchart.rshah.org/2ecc71/moskysarah" />
 </p>
 
 ---
