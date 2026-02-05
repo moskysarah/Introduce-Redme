@@ -56,19 +56,12 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=091519&border_color=3a8296" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=radical&bg_color=091519&title_color=61DAFB&text_color=C8E1FF" />
-</p>
-
----
 ## 📊 GitHub Statistics & Languages
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=091519&border_color=3a8296" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=radical&bg_color=091519&title_color=61DAFB&text_color=FFFFFF" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=dark&title_color=61DAFB&icon_color=61DAFB&bg_color=091519&hide_border=true" width="400" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=dark&title_color=61DAFB&bg_color=091519&hide_border=true" width="400" />
 </p>
 
 ---
@@ -78,8 +71,6 @@
 <p align="left">
   <img src="https://ghchart.rshah.org/3a8296/moskysarah" />
 </p>
-
----
 
 ---
 
