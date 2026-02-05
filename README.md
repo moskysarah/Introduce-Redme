@@ -48,20 +48,12 @@
 
 ---
 
-## ⚙️ Tools & Environment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma&theme=dark" />
-</p>
-
----
-
 ## 📊 GitHub Statistics & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moskysarah&show_icons=true&theme=dark&title_color=61DAFB&icon_color=61DAFB&bg_color=091519&hide_border=true" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moskysarah&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=091519&hide_border=true" width="400" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=dark&title_color=61DAFB&bg_color=091519&hide_border=true" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=radical&bg_color=091519&title_color=61DAFB&text_color=FFFFFF&hide_border=true" width="400" />
 </p>
 
 ---
@@ -75,4 +67,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting%20👋&fontSize=26&fontColor=61DAFB&animation=fadeIn" />
-
