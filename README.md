@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Statistics & Languages
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moskysarah&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&bg_color=091519&hide_border=true" width="400" />
   <br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moskysarah&layout=compact&theme=radical&bg_color=091519&title_color=61DAFB&text_color=FFFFFF&hide_border=true" width="400" />
